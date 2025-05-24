@@ -1,1 +1,1 @@
-# new_discord_bot
+# all senpai
