@@ -1,1 +1,17 @@
+{
+  "name": "all_senpai",
+  "version": "0.1.0",
+  "description": "allllllllllyの多機能botになる予定のものです。",
+  "main": "all_senpai.js",
+  "author": "alllllllllly",
+  "scripts": {
+    "start": "node all_senpai.js"
+  },
+  "dependencies": {
+    "discord.js": "^14.0.0",
+    "dotenv": "^16.5.0",
+    "node": "24.2.0",
+    "node-fetch": "^3.3.2"
+  }
+}
 
